@@ -1,0 +1,2 @@
+Hasil Perhitungan Iterasi 1:
+Hasil Pergi ke Bank: Jumlah tahun untuk mencapai target: 2

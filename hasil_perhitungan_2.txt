@@ -1,0 +1,2 @@
+Hasil Perhitungan Iterasi 2:
+Pemasukan atau pengeluaran tidak boleh 0.
